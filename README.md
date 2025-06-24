@@ -5,5 +5,5 @@ L'implémentation doit être liée à un Capteur et extracteur de données.
 ## Apercu de l'affichage
 ![Aperçu de l'affichage](Capture_écran_bcg.png)
 
-Différents boutons permettent d'afficher la détection des données physiologiques afficher au cours du temps en seconde. Les signaux proviennent de plusieurs capteurs mécaniques.
+Différents boutons permettent d'afficher la détection des données physiologiques afficher au cours du temps en seconde. Les signaux proviennent de plusieurs capteurs de vibrations mécaniques.
 
